@@ -1,0 +1,9 @@
+C:\Users\Administrador\OneDrive\Documentos\PROGRAMACION 2\Facebook.Core\bin\Debug\netcoreapp2.1\Facebook.Core.deps.json
+C:\Users\Administrador\OneDrive\Documentos\PROGRAMACION 2\Facebook.Core\bin\Debug\netcoreapp2.1\Facebook.Core.dll
+C:\Users\Administrador\OneDrive\Documentos\PROGRAMACION 2\Facebook.Core\bin\Debug\netcoreapp2.1\Facebook.Core.pdb
+C:\Users\Administrador\OneDrive\Documentos\PROGRAMACION 2\Facebook.Core\obj\Debug\netcoreapp2.1\Facebook.Core.csprojAssemblyReference.cache
+C:\Users\Administrador\OneDrive\Documentos\PROGRAMACION 2\Facebook.Core\obj\Debug\netcoreapp2.1\Facebook.Core.AssemblyInfoInputs.cache
+C:\Users\Administrador\OneDrive\Documentos\PROGRAMACION 2\Facebook.Core\obj\Debug\netcoreapp2.1\Facebook.Core.AssemblyInfo.cs
+C:\Users\Administrador\OneDrive\Documentos\PROGRAMACION 2\Facebook.Core\obj\Debug\netcoreapp2.1\Facebook.Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\OneDrive\Documentos\PROGRAMACION 2\Facebook.Core\obj\Debug\netcoreapp2.1\Facebook.Core.dll
+C:\Users\Administrador\OneDrive\Documentos\PROGRAMACION 2\Facebook.Core\obj\Debug\netcoreapp2.1\Facebook.Core.pdb
